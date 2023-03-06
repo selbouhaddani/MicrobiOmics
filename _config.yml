@@ -9,7 +9,7 @@ name: EWUU MicrobiOmics Working Group
 description: Methodological challenges in microbiome multi-omics
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/EWUU_logo.jpeg
+avatar: {{site.baseurl}}/images/EWUU_logo.jpeg
 
 #
 # Flags below are optional

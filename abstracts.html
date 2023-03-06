@@ -1,0 +1,19 @@
+---
+layout: page
+title: Abstracts
+permalink: /abstracts/
+published: true
+---
+
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      <p style="color:Grey;" class="post-meta"> <i> Date: {{ post.date | date: "%-d %B %Y" }}</i></p>
+      <div class="entry">
+        {{ post.content | strip_html | truncatewords: 20 }}
+      </div>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div> 

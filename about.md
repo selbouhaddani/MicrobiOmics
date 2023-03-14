@@ -15,6 +15,5 @@ Statistical integration of multi-omics data inmicrobiome research will provide a
 
 ## Organizers
 
-Shauna O'Donovan, Diana Hendrickx, Annelies Kers, Said el Bouhaddani
+Shauna O'Donovan (TU/e), Diana Hendrickx (WUR), Annelies Kers (UU), Said el Bouhaddani (UMCU)
 
-Contact us at: ...
